@@ -17,9 +17,9 @@
  현지인과 함게 지내면서 생생한 여행을 경험하세요.
 
 ### 서비스 개발 구경하기
- [Android 바로가기]() <br>
- [Web 바로가기]() <br>
- [iOS 바로가기]() <br>
- [기획서 바로가기]() <br>
+ [Android 바로가기](https://github.com/KU-Summer-Hackathon-2022/colocation-Android) <br>
+ [Web 바로가기](https://github.com/KU-Summer-Hackathon-2022/colocation-web) <br>
+ [iOS 바로가기](https://github.com/KU-Summer-Hackathon-2022/colocation-ios-app) <br>
+ [기획서 바로가기](https://github.com/KU-Summer-Hackathon-2022/Share_Roof_direction) <br>
   
  
